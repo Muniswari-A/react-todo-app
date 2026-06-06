@@ -81,6 +81,6 @@ npm start
 ---
 
 ## 👤 Author
-**Your Name** — Front-End Developer (Fresher) · Chennai, India
+Muniswari A — Front-End Developer (Fresher) · Chennai, India
 
-[GitHub](https://github.com/YOUR_USERNAME) · [LinkedIn](https://linkedin.com/in/YOUR_USERNAME)
+[GitHub](https://github.com/Muniswari-A) · [LinkedIn](https://linkedin.com/in/muniswari-a-oct2910)
